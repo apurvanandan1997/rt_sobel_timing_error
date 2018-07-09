@@ -1,0 +1,24 @@
+##############################################################################
+## Filename:          /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/pcores/sobelcop_v1_00_a/data/sobelcop_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Sun Jul  8 06:27:44 2018 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib sobelcop_v1_00_a sobelcop verilog
+lib sobelcop_v1_00_a bigfifo vhdl
+lib sobelcop_v1_00_a convolution vhdl
+lib sobelcop_v1_00_a fifo vhdl
+lib sobelcop_v1_00_a fifosmall vhdl
+lib sobelcop_v1_00_a top vhdl
+#lib sobelcop_v1_00_a fifo_generator_v9_4 verilog
+#lib sobelcop_v1_00_a fifo_generator_v9_1 verilog
+lib sobelcop_v1_00_a Register verilog
+#lib ieee_proposed fixed_float_types_c vhdl
+#lib ieee_proposed fixed_pkg_c vhdl
+#lib ieee_proposed float_pkg_c vhdl
+lib sobelcop_v1_00_a Debouncer verilog
+lib sobelcop_v1_00_a dram_write_frame verilog
+lib sobelcop_v1_00_a ButtonParse verilog
+lib sobelcop_v1_00_a EdgeDetect verilog
+lib sobelcop_v1_00_a Const verilog
+

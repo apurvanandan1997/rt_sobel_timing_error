@@ -1,0 +1,10 @@
+project new /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/pcores/sobelcop_v1_00_a/devl/projnav/sobelcop.xise;
+project set family virtex5;
+project set device xc5vlx110t;
+project set package ff1136;
+project set speed -1;
+project set top_level_module_type HDL;
+project set synthesis_tool "XST (VHDL/Verilog)";
+lib_vhdl new sobelcop_v1_00_a;
+xfile add /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj//pcores/sobelcop_v1_00_a/hdl/verilog/sobelcop.v;
+project close;

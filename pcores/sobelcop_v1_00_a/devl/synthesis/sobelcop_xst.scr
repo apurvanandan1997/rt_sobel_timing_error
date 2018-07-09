@@ -1,0 +1,11 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/pcores/sobelcop_v1_00_a/devl/synthesis/sobelcop_xst.prj
+-top sobelcop
+-p virtex6
+-ofn /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/pcores/sobelcop_v1_00_a/devl/synthesis/sobelcop_xst.ngc
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /

@@ -1,0 +1,13 @@
+-batch 
+-create sobelcop 
+-ver 1.00.a 
+-dir /home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-filter/dviproj/ 
+-lang verilog 
+-bus fsl ms 
+-xps 
+-ise 
+-totalin 1
+-totalout 1
+-argin 1
+-argout 1
+-desc "new FSL core"

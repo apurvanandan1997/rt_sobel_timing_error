@@ -1,0 +1,53 @@
+
+----------------------------------------------------------------------------
+--                            File Generation                             --
+----------------------------------------------------------------------------
+Start Creating ISE project 
+No driver support files will be generated at this time ...
+
+----------------------------------------------------------------------------
+--                              Final Report                              --
+----------------------------------------------------------------------------
+Thank you for using Create and Import Peripheral Wizard!
+
+Peripheral summary
+
+  top name       : sobelcop
+  version        : 1.00.a
+  type           : FSL master slave
+  features       : 
+
+File Summary
+
+  - HDL source -
+/home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-
+filter/dviproj/pcores/sobelcop_v1_00_a/hdl/vhdl
+  top level      : sobelcop.vhd
+
+  - XPS interface -
+/home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-
+filter/dviproj/pcores/sobelcop_v1_00_a/data
+  mpd            : sobelcop_v2_1_0.mpd
+  pao            : sobelcop_v2_1_0.pao
+
+  - ISE project -
+/home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-
+filter/dviproj/pcores/sobelcop_v1_00_a/devl/projnav
+  ise project    : sobelcop.xise
+  tcl script     : sobelcop.tcl
+
+
+  - XST synthesis -
+/home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-
+filter/dviproj/pcores/sobelcop_v1_00_a/devl/synthesis
+  xst script     : sobelcop_xst.scr
+  xst project    : sobelcop_xst.prj
+
+  - Misc file -
+/home/nitish/Desktop/apurva_projects/FPGASummerProject18-master/cs150-master-no-
+filter/dviproj/pcores/sobelcop_v1_00_a/devl
+  help           : README.txt
+  option         : ipwiz.opt
+  log            : ipwiz.log
+
+

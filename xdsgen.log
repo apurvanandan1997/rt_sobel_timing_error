@@ -1,0 +1,79 @@
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=plb_v46;v=v1_05_a;d=plb_v46.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=lmb_v10;v=v2_00_b;d=pg087-lmb-v10.
+   pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=lmb_v10;v=v2_00_b;d=pg087-lmb-v10.
+   pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=lmb_bram_if_cntlr;v=v3_10_c;d=pg06
+   1-lmb-bram-if-cntlr.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=lmb_bram_if_cntlr;v=v3_10_c;d=pg06
+   1-lmb-bram-if-cntlr.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=bram_block;v=v1_00_a;d=bram_block.
+   pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=xps_uartlite;v=v1_02_a;d=xps_uartl
+   ite.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=mpmc;v=v6_06_a;d=mpmc.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=clock_generator;v=v4_03_a;d=clock_
+   generator.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=mdm;v=v2_10_a;d=pg062-mdm.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=proc_sys_reset;v=v3_00_a;d=proc_sy
+   s_reset.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=fsl_v20;v=v2_11_f;d=fsl_v20.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=fsl_v20;v=v2_11_f;d=fsl_v20.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=fsl_v20;v=v2_11_f;d=fsl_v20.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=fsl_v20;v=v2_11_f;d=fsl_v20.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=fsl_v20;v=v2_11_f;d=fsl_v20.pdf
+WARNING:EDK:878 - Could not find IP doc
+   http://www.xilinx.com/cgi-bin/docs/ipdoc?c=fsl_v20;v=v2_11_f;d=fsl_v20.pdf
+Generated Block Diagram.
+Rasterizing microblaze_0.jpg.....
+Rasterizing mb_plb.jpg.....
+Rasterizing ilmb.jpg.....
+Rasterizing dlmb.jpg.....
+Rasterizing dlmb_cntlr.jpg.....
+Rasterizing ilmb_cntlr.jpg.....
+Rasterizing lmb_bram.jpg.....
+Rasterizing RS232_Uart_1.jpg.....
+Rasterizing DDR2_SDRAM.jpg.....
+Rasterizing clock_generator_0.jpg.....
+Rasterizing mdm_0.jpg.....
+Rasterizing proc_sys_reset_0.jpg.....
+Rasterizing readcop_0_to_microblaze_0.jpg.....
+Rasterizing microblaze_0_to_readcop_0.jpg.....
+Rasterizing vgain_0_to_microblaze_0.jpg.....
+Rasterizing sobelcop_0_to_microblaze_0.jpg.....
+Rasterizing microblaze_0_to_sobelcop_0.jpg.....
+Rasterizing vgain_0.jpg.....
+Rasterizing microblaze_0_to_vgain_0.jpg.....
+Rasterizing readcop_0.jpg.....
+Rasterizing sobelcop_0.jpg.....
+Rasterizing system_blkd.jpg.....
+org.apache.batik.transcoder.TranscoderException: null
+Enclosed Exception:
+file:/home/nitish/Desktop/fresh/FPGASummerProject18-master/cs150-master-no-filte
+r/dviproj/__xps/.dswkshop/system_blkd.svg:-1
+The attribute "width" of the element <rect> can not be negative
+	at org.apache.batik.transcoder.SVGAbstractTranscoder.transcode(Unknown Source)
+	at org.apache.batik.transcoder.image.ImageTranscoder.transcode(Unknown Source)
+	at org.apache.batik.transcoder.XMLAbstractTranscoder.transcode(Unknown Source)
+	at org.apache.batik.transcoder.SVGAbstractTranscoder.transcode(Unknown Source)
+	at MdtSvgDiag_Rasterize._rasterizeIMG(MdtSvgDiag_Rasterize.java:156)
+	at MdtSvgDiag_Rasterize.batchMode(MdtSvgDiag_Rasterize.java:91)
+	at MdtSvgDiag_Rasterize.main(MdtSvgDiag_Rasterize.java:24)
+Report generated.
+Report generation completed.
